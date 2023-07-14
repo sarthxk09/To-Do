@@ -3,7 +3,7 @@
 This is a simple web application for managing your to-do list. You can add, edit, and delete tasks, mark them as completed.
 ## Demo
 
-You can try out a live demo of the website (https://sarthxk09.github.io/To-Do/).
+You can try out a live demo of the website (https://sarthxk09.github.io/to-do/).
 
 ## Features
 
